@@ -1,0 +1,15 @@
+C:\Users\fbc8\OneDrive - Energisa\Área de Trabalho\Rocketseat-Fundamentos-de-C-Sharp\Questao01\bin\Debug\net8.0\Questao01.exe
+C:\Users\fbc8\OneDrive - Energisa\Área de Trabalho\Rocketseat-Fundamentos-de-C-Sharp\Questao01\bin\Debug\net8.0\Questao01.deps.json
+C:\Users\fbc8\OneDrive - Energisa\Área de Trabalho\Rocketseat-Fundamentos-de-C-Sharp\Questao01\bin\Debug\net8.0\Questao01.runtimeconfig.json
+C:\Users\fbc8\OneDrive - Energisa\Área de Trabalho\Rocketseat-Fundamentos-de-C-Sharp\Questao01\bin\Debug\net8.0\Questao01.dll
+C:\Users\fbc8\OneDrive - Energisa\Área de Trabalho\Rocketseat-Fundamentos-de-C-Sharp\Questao01\bin\Debug\net8.0\Questao01.pdb
+C:\Users\fbc8\OneDrive - Energisa\Área de Trabalho\Rocketseat-Fundamentos-de-C-Sharp\Questao01\obj\Debug\net8.0\Questao01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fbc8\OneDrive - Energisa\Área de Trabalho\Rocketseat-Fundamentos-de-C-Sharp\Questao01\obj\Debug\net8.0\Questao01.AssemblyInfoInputs.cache
+C:\Users\fbc8\OneDrive - Energisa\Área de Trabalho\Rocketseat-Fundamentos-de-C-Sharp\Questao01\obj\Debug\net8.0\Questao01.AssemblyInfo.cs
+C:\Users\fbc8\OneDrive - Energisa\Área de Trabalho\Rocketseat-Fundamentos-de-C-Sharp\Questao01\obj\Debug\net8.0\Questao01.csproj.CoreCompileInputs.cache
+C:\Users\fbc8\OneDrive - Energisa\Área de Trabalho\Rocketseat-Fundamentos-de-C-Sharp\Questao01\obj\Debug\net8.0\Questao01.sourcelink.json
+C:\Users\fbc8\OneDrive - Energisa\Área de Trabalho\Rocketseat-Fundamentos-de-C-Sharp\Questao01\obj\Debug\net8.0\Questao01.dll
+C:\Users\fbc8\OneDrive - Energisa\Área de Trabalho\Rocketseat-Fundamentos-de-C-Sharp\Questao01\obj\Debug\net8.0\refint\Questao01.dll
+C:\Users\fbc8\OneDrive - Energisa\Área de Trabalho\Rocketseat-Fundamentos-de-C-Sharp\Questao01\obj\Debug\net8.0\Questao01.pdb
+C:\Users\fbc8\OneDrive - Energisa\Área de Trabalho\Rocketseat-Fundamentos-de-C-Sharp\Questao01\obj\Debug\net8.0\Questao01.genruntimeconfig.cache
+C:\Users\fbc8\OneDrive - Energisa\Área de Trabalho\Rocketseat-Fundamentos-de-C-Sharp\Questao01\obj\Debug\net8.0\ref\Questao01.dll
